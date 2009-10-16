@@ -1,0 +1,9 @@
+{
+	"id": "com.webosschool.myfirstproject",
+	"version": "1.0.0",
+	"vendor": "webOSschool",
+	"type": "web",
+	"main": "index.html",
+	"title": "MyFirstProject",
+	"icon": "icon.png"
+}
